@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "seoulWardMap",
+    "slug": "seoulWardMap",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "seoulWardMap"
+}
